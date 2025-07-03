@@ -26,5 +26,4 @@ If you change wallpapers often using **Waypaper**, here’s how to make it work 
 1. Go to your Waypaper config.
 2. In the `post_command`, add this line:
 
-   ```bash
    cp $wallpaper ~/.config/waypaper/wall
