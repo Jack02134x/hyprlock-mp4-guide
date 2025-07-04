@@ -5,8 +5,7 @@ It's not an official feature—just a neat trick using how Hyprlock behaves when
 
 ## 📋 How It Works
 
-If you remove the background completely in Hyprlock and go to an empty workspace (like `15`),  
-then run a video using `mpvpaper` with overlay the video appears inside the Hyprlock screen.
+If you remove the background completely in Hyprlock then run a video using `mpvpaper` with overlay the video appears inside the Hyprlock screen.
 
 Yes—it looks cool, and it works.
 
