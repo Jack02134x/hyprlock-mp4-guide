@@ -19,11 +19,3 @@ Yes—it looks cool, and it works.
 
 Make sure to test it in an empty workspace to avoid interference with other windows.
 
-## 🌈 Bonus Tip for Waypaper/Swww Users
-
-If you change wallpapers often using **Waypaper**, here’s how to make it work with this trick:
-
-1. Go to your Waypaper config.
-2. In the `post_command`, add this line:
-
-   cp $wallpaper ~/.config/waypaper/wall
