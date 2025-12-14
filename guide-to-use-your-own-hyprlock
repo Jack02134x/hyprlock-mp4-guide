@@ -1,16 +1,14 @@
 if you don't wanna use my hyprlock and wanna use your own then here is what you are supposed to do.
 
-
 go to your hyprlock.conf and find something like,
 
 
 background {
     monitor     =
-    path        = $wallpaper
+    path        = screenshot
 
-    blur_passe...
+    blur_pass = 0 <---- no other value
 
 }
 
-you need comment the background line or just remove this entire block.
-that's quite it...
+you need to set the path to screenshot and set blur_pass = 0
