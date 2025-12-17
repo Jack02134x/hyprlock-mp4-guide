@@ -5,10 +5,9 @@ go to your hyprlock.conf and find something like,
 
 background {
     monitor     =
-    path        = screenshot
-
-    blur_pass = 0 <---- no other value
+    path        =
+    color = rgba(0,0,0,0)
 
 }
 
-you need to set the path to screenshot and set blur_pass = 0
+you need to set color = some rgba value with alpha value 0
