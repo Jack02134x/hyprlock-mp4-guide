@@ -12,9 +12,8 @@ Yes—it looks cool, and it works.
 ## 🔧 How to Set It Up
 
 1. Clone this repo.
-2. Check the config files (`hyprlock.conf`, script, etc.).
+2. Check the config files (`hyprlock.conf`and `hyprland.conf`).
 3. **Don’t just copy-paste**—you need to edit the file paths in them.
 4. Example wallpaper video and static image are included.
 
 Make sure to test it in an empty workspace to avoid interference with other windows.
-
